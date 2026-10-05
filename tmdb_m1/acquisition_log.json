@@ -1140,7 +1140,5 @@
   "duplicate_movie_ids_removed": 0,
   "received_count_matches_reported": true,
   "unique_count_matches_reported": true,
-  "round_trip_checks_passed": true,
-  "personal_data": "Movie metadata only; no people profiles or user-level ratings collected.",
-  "snapshot_caveat": "Page-based API results can change while downloading. Reused cache files may have different timestamps; see cache_files_used."
+  "round_trip_checks_passed": true
 }
