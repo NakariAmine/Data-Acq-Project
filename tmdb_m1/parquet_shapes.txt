@@ -1,2 +1,2 @@
-movies_raw.parquet: 5455 rows, 11 columns
-movie_genres.parquet: 13696 rows, 3 columns
+movies_raw.parquet: 5455 rows, 10 columns
+movie_genres.parquet: 13697 rows, 3 columns
